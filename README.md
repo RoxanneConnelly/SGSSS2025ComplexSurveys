@@ -9,5 +9,6 @@ Contents:
 - Lecture Slides
 - Lab Activities in Stata (StataLabActivites.do)
 - Lab Activities in R (RLabActivities.R)
+- Extension Activities in Stata (StataExtensionActivities.do)
 
 **Files can be downloaded by clicking the green 'Code' button and selecting 'Download ZIP'**
