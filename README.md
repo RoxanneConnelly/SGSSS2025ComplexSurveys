@@ -7,6 +7,7 @@ We often learn statistical data analysis skills using data which is assumed to a
 
 Contents:
 - Lecture Slides
+- Data Sets (stage5a.csv, nhanes2b.csv, nmihs.csv) 
 - Lab Activities in Stata (StataLabActivites.do)
 - Lab Activities in R (RLabActivities.R)
 - Extension Activities in Stata (StataExtensionActivities.do)
